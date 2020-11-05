@@ -1,0 +1,15 @@
+.font {
+    font-size:20px;
+}
+.image 
+{
+    background-image: url('../css/images/2.jpg');
+    background-size: cover;
+    height: 75vh;
+}
+.p-size {
+    font-size:20px;
+}
+.font-size {
+    font-size:30px;
+}
